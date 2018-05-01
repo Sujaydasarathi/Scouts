@@ -1,5 +1,12 @@
+<<<<<<< HEAD
+File_2-- to test the naming correct
+=======
 File 2 on Barnch 2
+<<<<<<< HEAD
 
 
 That merge was a carp... should not be allowed
 
+=======
+>>>>>>> Test1
+>>>>>>> Test2
